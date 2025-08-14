@@ -1,5 +1,4 @@
-
-# Título do Projeto
+# Objetivo
 
 1. login
 2. consultar uma api externa
